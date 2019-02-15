@@ -9,4 +9,6 @@ Follow below steps:
 4. Double click on run.bat file found in bin/[debug/Release] folder.
 5. Just look on UI while doing work on PR, it will display all changes made in PR folder.
 
+Please Fork to get updates on this.
+
 Thanks For using this.
